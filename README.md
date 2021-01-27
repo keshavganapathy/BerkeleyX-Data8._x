@@ -1,4 +1,4 @@
-# BerkeleyX Datascience Solutions
+# BerkeleyX Data science Solutions
 This repository holds all code and solutions for the 3 part Berkeley Datascience courses on <a href = "https://www.edx.org/">edx</a>. All code may not be currently present as I am working through the courses.
 <ul>
   <li><a href = "https://www.edx.org/course/foundations-of-data-science-computational-thinking">BerkeleyX-Data8.1x Data Science: Computational Thinking with Python</a></li>
